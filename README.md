@@ -55,13 +55,13 @@ HotLingo is a Windows system tray app that lets you translate any selected text 
 ## How to Use
 
 ### 1. Translate Selected Text
-Select any text in any app → press the hotkey (default: `Alt + T`) → the translation panel appears instantly.
+Select any text in any app → press the hotkey (default: `Alt + Shift + T`) → the translation panel appears instantly.
 
 ### 2. Type to Translate
 Click the HotLingo icon in the system tray → open the translation panel → type or paste text → press `Enter` to translate.
 
 ### 3. Screenshot OCR
-Press the screenshot hotkey (default: `Alt + S`) → drag to select a screen area → HotLingo extracts and translates the text automatically.
+Press the screenshot hotkey (default: `Alt + Shift + S`) → drag to select a screen area → HotLingo extracts and translates the text automatically.
 
 ### 4. Switch Translation Provider
 Open **Settings → General** and choose your preferred provider:
