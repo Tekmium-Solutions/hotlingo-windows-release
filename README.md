@@ -4,7 +4,7 @@
 
 **Instant AI translation — right where you need it.**
 
-[![Latest Release](https://img.shields.io/github/v/release/Tekmium-Solutions/hotlingo-windows-release?style=flat-square&label=latest&color=blue)](https://github.com/Tekmium-Solutions/hotlingo-windows-release/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/Tekmium-Solutions/hotlingo-windows-release?include_prereleases&style=flat-square&label=latest&color=blue)](https://github.com/Tekmium-Solutions/hotlingo-windows-release/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-lightgrey?style=flat-square&logo=windows)](https://github.com/Tekmium-Solutions/hotlingo-windows-release/releases/latest)
 [![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)](https://hotlingo.vn)
 
@@ -34,8 +34,8 @@ HotLingo is a Windows system tray app that lets you translate any selected text 
 
 | File | Description |
 |---|---|
-| `HotLingo-Setup.exe` | Installer — recommended |
-| `HotLingo.msi` | MSI package for enterprise/IT deployment |
+| `HotLingo-x.x.x-win-x64-setup.exe` | Installer — recommended for most users |
+| `HotLingo-x.x.x-win-x64.msi` | MSI package for enterprise/IT deployment |
 
 → **[Download latest release](https://github.com/Tekmium-Solutions/hotlingo-windows-release/releases/latest)**
 
@@ -47,7 +47,7 @@ HotLingo is a Windows system tray app that lets you translate any selected text 
 
 ### Installation
 
-1. Download `HotLingo-Setup.exe`
+1. Download `HotLingo-x.x.x-win-x64-setup.exe`
 2. Run the installer and follow the setup wizard
 3. Launch HotLingo from the Start Menu or system tray
 4. Grant required permissions when prompted
